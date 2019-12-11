@@ -1,5 +1,5 @@
 ### 代码结构
-![image](https://user-images.githubusercontent.com/16145883/70503160-c937b080-1b5d-11ea-8477-82ff68e438ea.png)
+![image](https://github.com/kagxin/feiyan_consume/blob/master/readme.png)
 
 ### 新增用户代码
 * 把原来的测试代码删掉 bar_event_consumer, foo_item_consumer, baz_service_consumer, qux_status_consumers
