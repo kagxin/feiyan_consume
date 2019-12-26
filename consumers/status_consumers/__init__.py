@@ -7,7 +7,7 @@ from typing import *
 class StatusConsumerBase(ConsumerBase):
 
     def status_check(self, data: Dict) -> bool:
-        return True
+        return False
 
     def check(self, data: Dict) -> bool:
         """
