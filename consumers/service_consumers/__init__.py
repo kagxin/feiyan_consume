@@ -7,7 +7,7 @@ from typing import *
 class ServiceConsumerBase(ConsumerBase):
 
     def service_check(self, data: Dict) -> bool:
-        return True
+        return False
 
     def check(self, data: Dict) -> bool:
         """
